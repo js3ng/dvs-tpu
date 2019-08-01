@@ -1,0 +1,7 @@
+Edge TPU Compiler version 1.0.249710469
+Input: quant_pp_model_eval_3.tflite
+Output: quant_pp_model_eval_3_edgetpu.tflite
+
+Operator                       Count      Status
+
+FULLY_CONNECTED                2          Mapped to Edge TPU
